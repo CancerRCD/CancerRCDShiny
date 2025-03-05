@@ -1,0 +1,10 @@
+name: cancerrcdshiny
+title:
+username: cancerrcdshiny
+account: cancerrcdshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13991074
+bundleId: 9797654
+url: https://cancerrcdshiny.shinyapps.io/cancerrcdshiny/
+version: 1
